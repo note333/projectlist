@@ -1,0 +1,7 @@
+print(1+1)
+print(1.5+1.5)
+print("hello")
+print(float(2))
+print("1")
+print(int("1"))
+print(int("1.5"))
